@@ -127,6 +127,6 @@ If your track or obstacles are different, you don't need to touch the logic — 
 
 ## 8. Team
 
-Maryam EL Sayed Ellabn · Nada Ahmed Foaad · Mohamed Amir Ghannam · Farouk Mohamed Farouk · Ahmed Mohamed Khairy · Mina Basem Samir
+Maryam EL Sayed Ellabn · Nada Ahmed Foaad · Mohamed Amir Ghanam · Farouk Mohamed Farouk · Ahmed Mohamed Khairy · Mina Basem Samir
 
 **Supervised by:** Dr. Tamer Mansour, Eng. Wagdy
